@@ -4,7 +4,9 @@ Running the [SPARQL test suite](https://www.w3.org/2009/sparql/docs/tests/) for 
 
 ## Prerequisites
 
-You need too compile the [QLever code](https://github.com/ad-freiburg/qlever) and get the [SPARQL test suite files](https://github.com/w3c/rdf-tests/tree/main/sparql/).
+- compile the [QLever code](https://github.com/ad-freiburg/qlever) 
+- get the [SPARQL test suite files](https://github.com/w3c/rdf-tests/tree/main/sparql/)
+- install the python dependencies in `requirements.txt`
 
 ## Running the test suite
 
